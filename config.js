@@ -20,9 +20,9 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
+global.Owner = ["RE-JEONG GUANXII"];
+global.OwnerNumber = ["27765359269"];
+global.ownertag = ["27765359269"]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "MAKINO-MD-V2";                             //Do not change.
